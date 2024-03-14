@@ -6,7 +6,7 @@ At InfinitIQ Tech, we're dedicated to innovating at the intersection of technolo
 ## What We Do
 - [Custom GPT Forge](https://CustomGPTForge.ai): Our flagship project that showcases our capability in creating specialized GPT models for diverse applications, aiming to enhance content creation, customer service, and more with AI.
 
-- **GPT Bridge**: A Swift framework for seamless interaction with OpenAI's API, making AI integration into apps easier for developers.
+- [GPT Bridge](https://github.com/infinitiq-tech/gpt-bridge): A Swift framework for seamless interaction with OpenAI's API, making AI integration into apps easier for developers.
 
 - **Open Source Projects**: Contributing to the community with tools and libraries aimed at democratizing software development.
 
